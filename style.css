@@ -1,0 +1,40 @@
+body { margin-top: 50px; }
+#top-navbar {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.bgimg {
+	background-repeat: none;
+	font-size: 17px;
+}
+.bgimg a {
+	color: #fff;
+	text-decoration: underline;
+}
+.bgimg a:hover {
+	text-decoration: none;
+}
+.bgimg-caption,
+.bgimg-caption a {
+	color: #ccc !important;
+	text-align: right;
+}
+#top {
+	background-image: url(images/top.bg.jpg);
+	background-size: cover;
+	height: 500px;
+	color: #fff;
+	margin-bottom: 0;
+}
+.vis-item {
+	padding: 50px 0;
+}
+.vis-head h2 {
+	text-transform: uppercase;
+	margin-top: 0;
+}
+.vis-legend {
+	border-top: 1px solid #ccc;
+	color: #bbb;
+	padding-top: 7px;
+	margin-top: 25px;
