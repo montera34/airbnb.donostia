@@ -38,3 +38,26 @@ body { margin-top: 50px; }
 	color: #bbb;
 	padding-top: 7px;
 	margin-top: 25px;
+}
+.vis-gradient {
+	padding: 5px;
+	font-size: 1.2em;
+	color: #fff;
+}
+.vis-gradient-1 {
+	background-color: #6BAED6;
+}
+.vis-gradient-2 {
+	background-color: #4292C6;
+}
+.vis-gradient-3 {
+	background-color: #2171B5;
+}
+.vis-gradient-4 {
+	background-color: #084594;
+}
+
+
+#bottom {
+	border: 1px solid #000;
+}
