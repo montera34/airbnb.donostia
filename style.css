@@ -38,6 +38,12 @@ body { margin-top: 50px; }
 .intro figure {
 	margin-bottom: 1em;
 }
+.intro table thead th {
+	text-align: right;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+	border-top: none;
+}
 .vis-item {
 	padding: 50px 0;
 }
